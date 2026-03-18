@@ -1,0 +1,44 @@
+{
+  "servidor": {
+    "nome": "Servidor Node",
+    "linguagem": "JavaScript",
+    "status": "online",
+    "porta": 3000
+  },
+  "pessoas": [
+    {
+      "id": 1,
+      "nome": "João da Silva",
+      "idade": 23,
+      "altura": 1.8,
+      "pais": "Brasil"
+    },
+    {
+      "id": 2,
+      "nome": "Maria Andrade",
+      "idade": 70,
+      "altura": 1.5,
+      "pais": "Brasil"
+    },
+    {
+      "id": 3,
+      "nome": "Maurício Kataguri",
+      "idade": 30,
+      "altura": 1.87,
+      "pais": "Japão"
+    }
+  ],
+  "cursos": [
+    {
+      "id": 1,
+      "nome": "Desenvolvimento Web",
+      "cargaHoraria": "80h"
+    },
+    {
+      "id": 2,
+      "nome": "Banco de Dados",
+      "cargaHoraria": "60h"
+    }
+  ],
+  "data": "2026-03-18T08:00:00.000Z"
+}
