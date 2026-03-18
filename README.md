@@ -65,7 +65,3 @@ Aplicar na prática conceitos essenciais de desenvolvimento back-end:
 ## 📌 Considerações
 
 Este projeto serve como base para evolução em desenvolvimento back-end, incluindo uso de APIs e frameworks como Express.js.
-
----
-
-Se quiser, posso adaptar esse README exatamente para a estrutura real do seu repositório (com nomes de pastas e arquivos corretos), deixando ele ainda mais profissional.
