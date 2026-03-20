@@ -28,7 +28,7 @@ O projeto demonstra conceitos fundamentais de back-end, como manipulação de re
 ## 🚀 Como Executar
 
 ```bash
-git clone https://github.com/GabrieldeMoura9648/TPII.git
+git clone https://github.com/GabrieldeMoura9648/Dev-Web-III.git
 cd DevWebIII
 node server.js
 ```
